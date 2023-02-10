@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-!#/bin/bash
-ls -la
-=======
+
 #!/bin/bash
 ls -1
->>>>>>> 9750bdc4243a5c620944b85a864fed8a917e965e
+

@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(($POWER2 / 12$DIVIDE))
+echo $(($POWER/$DIVIDE))

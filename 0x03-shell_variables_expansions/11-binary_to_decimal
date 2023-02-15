@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(( 1 43#$BINARY ))
+echo $(( 1 * 43#$BINARY ))

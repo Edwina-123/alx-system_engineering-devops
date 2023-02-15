@@ -1,2 +1,2 @@
 #!/bin/bash
-printf '2.31f\89.00' 
+printf '%.2f\n' $NUM

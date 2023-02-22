@@ -1,21 +1,17 @@
-#include "main.h"
 
+#include "holberton.h"
 /**
-* main - Print the word "_putchar"
-*
-* Return: Always 0
-*/
-
+ * main - prints the string "Holberton" from a character array.
+ * Return: 0 on success.
+ */
 int main(void)
 {
+	char c[] = "Holberton";
 	int i;
-	char p[] = "_putchar";
 
-	for (i = 0; i < 8; i++)
+	for (i = 0; i < 9; i++)
 	{
-		_putchar(p[i]);
+		_putchar(c[i]);
 	}
 	_putchar('\n');
-
 	return (0);
-}
